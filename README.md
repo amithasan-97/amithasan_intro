@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amithasan23
+- 👋 Hi, I’m Amit 
 - 👀 I’m interested in circuit neuroscience and motor circuit. In my free time, I read, write and do yoga 
 - 🌱 I’m currently learning Advanced application of MATLAB and Python programming
 - 💞️ I’m looking to collaborate on people interested in modeling motor ciruit 
